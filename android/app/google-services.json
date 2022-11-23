@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511639600065",
+    "project_id": "citywealthlive",
+    "storage_bucket": "citywealthlive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511639600065:android:12ab02c8a68c362d160d40",
+        "android_client_info": {
+          "package_name": "com.example.city_wealth_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511639600065-252rde4f14t962lqjdvr43bgr5fv6bci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQqYKyJ6zUq2edZNb3j1bYj3vqYeBHC0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511639600065-252rde4f14t962lqjdvr43bgr5fv6bci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
